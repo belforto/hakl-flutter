@@ -12,11 +12,12 @@
 <br/>
 <p align="left"> 
   You open the app, and the map of the courts in your local city and map will show up
-  <br/>
+  <p/>
+  <p align="left"> 
   On the map there are basketball courts. You can can scroll this map and check courts you are interested in.
-    <br/>
+    <p/>
   You want to play?  Check out the court if someone had checked-in so you can go there and join those guys on the court.
-  <br/>
+   <p align="left"> 
   No one is there, on the court?
   No problem, you can <strong>check-in</strong> and share with app users you are at the court ready...Be sure someone will come quickly to test your skills under the hoops.
 
