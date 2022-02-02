@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,this is HAKL app for basketball players</h1>
 <h3 align="center">An app where you can find players to play against on your local basketball court in your city.</h3>
   <br/>
-<p align="left"> 
+<p align="center"> 
   Unlike other sports, basketball can be played on one hoop, 1vs1, 3x3, 5x5 however the guys decide
   <br/>
   </p>
@@ -15,7 +15,10 @@
   <br/>
   On the map there are basketball courts. You can can scroll this map and check courts you are interested in.
     <br/>
-  You want to play?  Check the court if someone checked-in so you can go there and join those guys on the court.
+  You want to play?  Check out the court if someone had checked-in so you can go there and join those guys on the court.
+  <br/>
+  No one is there, on the court?
+  No problem, you can <strong>check-in</strong> and share with app users you are at the court ready...Be sure someone will come quickly to test your skills under the hoops.
 
 
 
