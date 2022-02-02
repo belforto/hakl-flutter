@@ -1,6 +1,26 @@
 # hakl-flutter
 <h1 align="center">Hi 👋,this is HAKL app for basketball players</h1>
 <h3 align="center">An app where you can find players to play against on your local basketball court in your city.</h3>
+  <br/>
+<p align="left"> 
+  Unlike other sports, basketball can be played on one hoop, 1vs1, 3x3, 5x5 however the guys decide
+  <br/>
+  </p>
+<br/>
+<h3 align="center">How?</h3>
+<br/>
+<br/>
+<p align="left"> 
+  You open the app, and the map of the courts in your local city and map will show up
+  <br/>
+  On the map there are basketball courts. You can can scroll this map and check courts you are interested in.
+    <br/>
+  You want to play?  Check the court if someone checked-in so you can go there and join those guys on the court.
+
+
+
+</p>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belforto&label=Profile%20views&color=0e75b6&style=flat" alt="belforto" /> </p>
 
